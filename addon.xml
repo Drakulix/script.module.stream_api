@@ -10,7 +10,7 @@
     <summary>Steam In-Home Streaming Network Backend</summary>
     <description>Implementation of the Network Protocol for Steam's In-Home Streaming Protocol</description>
     <language></language>
-    <platform>winx linux osx</platform>
+    <platform>windx linux osx</platform>
     <license>MIT</license>
     <source>https://github.com/drakulix/script.module.stream_api</source>
   </extension>
